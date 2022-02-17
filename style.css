@@ -1,7 +1,11 @@
+.elemento-padre{
+    border: 2px solid black;
+    position: relative;
+}
 .elemento-principal{
     background-color: yellow;
     padding: 10px;
-    position: static;
+    position: absolute;
     left: 10px;
     bottom: 10px;
 }
